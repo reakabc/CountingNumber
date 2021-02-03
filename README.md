@@ -1,4 +1,4 @@
-# CountingNumber 
+# Counting Number Animation In Android Studio
 ##A counting number animation without any third party library with minimum code
 
 A simple algorithms to follow and develop own counting number animation with more customization and control.
